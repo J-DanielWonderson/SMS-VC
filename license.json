@@ -1,4 +1,6 @@
 {
   "allowed": true,
-  "blocked": []
+  "blocked": [
+    "88bd4799-848e-4c73-818b-c047117ad371"
+  ]
 }
